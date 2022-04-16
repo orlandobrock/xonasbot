@@ -109,7 +109,6 @@ class Music(commands.Cog):
                 info = ydl.extract_info(query, download=False)
         except youtube_dl.utils.ExtractorError:
             self.get_info(query)
-            print('ta dando erro porra')
         return info
 
     async def add_songs(self, ctx, info):
