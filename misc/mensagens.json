@@ -1,0 +1,11 @@
+{
+  "status": ["listademensagens"],
+  "update": {
+    "title": "**ATUALIZAÇÃO** :hammer_pick:",
+    "description": "__**Notas da ultima atualização do Xonas BOT**__",
+    "thumb": "https://i.imgur.com/7pDef5w.png",
+    "name_notas": "**Mudanças**",
+    "notas": "",
+    "cabecalho": ""
+  }
+}

@@ -1,0 +1,7 @@
+discord
+youtube_dl
+validators
+youtube-search
+asyncio
+PyNaCl
+discord.py[voice]
